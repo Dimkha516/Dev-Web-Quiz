@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nom": "Abdou Aziz Diop",
+    "photo": "/images/Abdou Aziz Diop.png",
+    "indices": ["Mister Primo"]
+  },
+  {
+    "id": 2,
+    "nom": "Abdoulaye Diop",
+    "photo": "/images/Abdoulaye Diop.png",
+    "indices": ["Liskov 😅", "Copain de Wane"]
+  },
+  {
+    "id": 3,
+    "nom": "Aissata Diop",
+    "photo": "/images/Aissata Diop.jpg",
+    "indices": ["Griote Dev-Web", "Ambianceuse"]
+  }
+]
